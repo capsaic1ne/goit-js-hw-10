@@ -26,6 +26,7 @@
 .nav-link:hover,
 .nav-link:focus {
   color: #747bff;
+  transition: color 300ms ease-in-out;
 }
 .nav-link::after {
   content: '';

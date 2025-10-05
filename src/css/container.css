@@ -1,5 +1,12 @@
 /* Styles for Mobile devices */
 .container {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 32px;
   min-width: 320px;
   max-width: 375px;
   margin: 0 auto;
